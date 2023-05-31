@@ -1,5 +1,3 @@
-Github Repo Link: https://github.com/talib-sid/iss-assingment-1
-
 # Readme file for DSA Assignment 1
 This file has instructions on running the codes.
 The codes have been compiled, executed and tested on Ubuntu 20.04 and function accurately.
@@ -66,4 +64,3 @@ To be compiled as:
 ./q5.sh
 
 ---
-# iss-a1
